@@ -1,0 +1,16 @@
+C:\Users\geremias.bezerra\source\repos\OlderPeople\OlderPeople\obj\Debug\net5.0\OlderPeople.csproj.AssemblyReference.cache
+C:\Users\geremias.bezerra\source\repos\OlderPeople\OlderPeople\obj\Debug\net5.0\OlderPeople.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geremias.bezerra\source\repos\OlderPeople\OlderPeople\obj\Debug\net5.0\OlderPeople.AssemblyInfoInputs.cache
+C:\Users\geremias.bezerra\source\repos\OlderPeople\OlderPeople\obj\Debug\net5.0\OlderPeople.AssemblyInfo.cs
+C:\Users\geremias.bezerra\source\repos\OlderPeople\OlderPeople\obj\Debug\net5.0\OlderPeople.csproj.CoreCompileInputs.cache
+C:\Users\geremias.bezerra\source\repos\OlderPeople\OlderPeople\bin\Debug\net5.0\OlderPeople.exe
+C:\Users\geremias.bezerra\source\repos\OlderPeople\OlderPeople\bin\Debug\net5.0\OlderPeople.deps.json
+C:\Users\geremias.bezerra\source\repos\OlderPeople\OlderPeople\bin\Debug\net5.0\OlderPeople.runtimeconfig.json
+C:\Users\geremias.bezerra\source\repos\OlderPeople\OlderPeople\bin\Debug\net5.0\OlderPeople.runtimeconfig.dev.json
+C:\Users\geremias.bezerra\source\repos\OlderPeople\OlderPeople\bin\Debug\net5.0\OlderPeople.dll
+C:\Users\geremias.bezerra\source\repos\OlderPeople\OlderPeople\bin\Debug\net5.0\ref\OlderPeople.dll
+C:\Users\geremias.bezerra\source\repos\OlderPeople\OlderPeople\bin\Debug\net5.0\OlderPeople.pdb
+C:\Users\geremias.bezerra\source\repos\OlderPeople\OlderPeople\obj\Debug\net5.0\OlderPeople.dll
+C:\Users\geremias.bezerra\source\repos\OlderPeople\OlderPeople\obj\Debug\net5.0\ref\OlderPeople.dll
+C:\Users\geremias.bezerra\source\repos\OlderPeople\OlderPeople\obj\Debug\net5.0\OlderPeople.pdb
+C:\Users\geremias.bezerra\source\repos\OlderPeople\OlderPeople\obj\Debug\net5.0\OlderPeople.genruntimeconfig.cache
