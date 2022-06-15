@@ -7,6 +7,7 @@ namespace OlderPeople
     {
         static void Main(string[] args)
         {
+            //Programa que lê Idade e nome do Usuário
             People p = new People();
             Console.Write("Insert your name: ");
             p.Name = Console.ReadLine();
